@@ -1,0 +1,12 @@
+body {
+  background: #000;
+  overflow: hidden;
+  margin: 0;
+}
+h1 {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: aqua;
+}
