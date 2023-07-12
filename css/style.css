@@ -8,8 +8,13 @@ h1 {
   left: 50%;
   transform: translateX(-50%);
 }
-.name {
+.firstname {
   top: 50px;
+  text-align: center;
+  color: aqua;
+}
+.lastname {
+  bottom: 50px;
   color: aqua;
 }
 .time {
