@@ -9,7 +9,7 @@ const time = () => {
   const second = Math.floor(((nowDate - loveDate) / 1000) % 60)
   return `
     <div class="timeText">
-      相恋
+      相爱
       <p>${day} 天</p>
       <p>${hour} 时</p>
       <p>${minute} 分</p>
