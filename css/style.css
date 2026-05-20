@@ -1,0 +1,33 @@
+body {
+  background: #000;
+  overflow: hidden;
+  margin: 0;
+}
+h1 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.firstname {
+  top: 50px;
+  text-align: center;
+  color: aqua;
+}
+.lastname {
+  bottom: 50px;
+  color: aqua;
+}
+.time {
+  width: 100%;
+  bottom: 10%;
+  color: aqua;
+}
+.timeText {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.timeText p {
+  text-align: center;
+  width: 50px;
+}
